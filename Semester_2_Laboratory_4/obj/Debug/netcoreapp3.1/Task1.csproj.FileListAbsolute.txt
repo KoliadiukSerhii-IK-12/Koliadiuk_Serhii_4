@@ -1,0 +1,13 @@
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\bin\Debug\netcoreapp3.1\Task1.exe
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\bin\Debug\netcoreapp3.1\Task1.deps.json
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\bin\Debug\netcoreapp3.1\Task1.dll
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\bin\Debug\netcoreapp3.1\Task1.pdb
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\obj\Debug\netcoreapp3.1\Task1.csprojAssemblyReference.cache
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\obj\Debug\netcoreapp3.1\Task1.dll
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\obj\Debug\netcoreapp3.1\Task1.pdb
+D:\КПІ ПРограмування\Semester_2_Laboratory_4\Semester_2_Laboratory_4\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
